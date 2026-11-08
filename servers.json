@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "servers": [
+    {
+      "id": "kopajstvaraj-main",
+      "name": "KopajStvaraj — Osnovni",
+      "host": "79.76.96.83",
+      "port": 19132,
+      "description": "Savetujemo da koristite ovu IP adresu za Bedrock Minecraft."
+    },
+    {
+      "id": "kopajstvaraj-backup",
+      "name": "KopajStvaraj — Rezervni",
+      "host": "kopajstvarajb.playit.plus",
+      "port": 21626,
+      "description": "Ako vam osnovna IP adresa ne radi ili imate loš ping, koristite ovu."
+    }
+  ]
+}
