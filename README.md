@@ -1,1 +1,1 @@
-# kopajstvaraj-server-list
+# https://eyecrasher.gitbook.io/kopajstvaraj
