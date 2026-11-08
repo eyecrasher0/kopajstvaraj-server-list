@@ -1,0 +1,1 @@
+# kopajstvaraj-server-list
